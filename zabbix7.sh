@@ -1,9 +1,6 @@
-#!/bin/bash
-# Author: 火星小刘 / 中国青岛
-# Install Zabbix 7 on CentOS, Rocky Linux, Debian, or Ubuntu
 
 # 设置默认密码变量
-DEFAULT_PASSWORD="huoxingxiaoliu"
+DEFAULT_PASSWORD="Huawei12#$"
 
 # 提示用户设置密码
 echo -e "\e[32m是否要设置自定义的数据库密码？默认密码为：$DEFAULT_PASSWORD\e[0m"
